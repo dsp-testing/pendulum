@@ -40,7 +40,7 @@ pytest-benchmark = "^4.0.0"
 [tool.poetry.group.doc.dependencies]
 mkdocs = "^1.0"
 pymdown-extensions = ">=6,<11"
-pygments = "^2.2"
+pygments = "^2.20"
 markdown-include = "^0.8.1"
 
 [tool.poetry.group.lint.dependencies]
